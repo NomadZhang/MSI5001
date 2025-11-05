@@ -8,6 +8,8 @@ Project Layout
 - `main.ipynb` — primary analysis notebook; run cells top-to-bottom to reproduce plots and tables.
 - `Airline Sentiment/` — contains the source dataset (`Tweets.csv`) expected by the notebook.
 - `requirements.txt` — pinned dependencies (UTF-16 encoded).
+- `RoBERTa_embeddings_specific_features.pkl` — Encoded specific features using RoBERTa.
+- `RoBERTa_embeddings.pkl` — Encoded tweets using RoBERTa.
 
 Prerequisites
 -------------
